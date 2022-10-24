@@ -3,7 +3,7 @@
 ## Basic Calculator Project
 
 >### todo:
->- [ ] addition 
+>- [X] addition 
 >- [ ] multiplication
 >- [ ] subtraction
 >- [ ] division
