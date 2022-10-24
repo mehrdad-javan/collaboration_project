@@ -15,6 +15,7 @@ public class App
         System.out.println("Welcome to my first basic calculator");
         System.out.println(" + Addition ");
         System.out.println(" * Multiplication ");
+        System.out.println(" - Subtraction ");
         System.out.println(" / Division ");
     }
 }
