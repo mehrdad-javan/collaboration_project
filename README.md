@@ -4,7 +4,7 @@
 
 >### todo:
 >- [X] addition 
->- [ ] multiplication
+>- [x] multiplication
 >- [ ] subtraction
 >- [ ] division
 >- [ ] menu + console
