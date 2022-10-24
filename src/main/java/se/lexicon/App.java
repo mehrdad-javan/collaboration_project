@@ -10,4 +10,10 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+
+    public static void displayMenu(){
+        System.out.println("Welcome to my first basic calculator");
+        System.out.println(" + Addition ");
+        System.out.println(" * Multiplication ");
+    }
 }
